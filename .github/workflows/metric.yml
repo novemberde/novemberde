@@ -23,7 +23,7 @@ jobs:
 
           # Options
           user: novemberde
-          template: repository
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Seoul
           plugin_gists: yes
