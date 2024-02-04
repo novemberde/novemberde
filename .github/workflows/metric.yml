@@ -42,6 +42,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
+          # plugin_notable: yes
+          # plugin_notable_from: organization
+          # plugin_notable_types: commit
